@@ -1,22 +1,23 @@
 {
-  "store_id": 1143,
-  "name": "adequim-loja",
   "domain": "adequim-loja.netlify.app",
-  "short_name": "adequim-loja",
-  "description": "adequim-loja",
-  "primary_color": "#313131",
-  "secondary_color": "#e36159",
-  "bg_color": "#fff",
+  "currency_symbol": "R$",
+  "primary_color": "#502b80",
   "theme": {
-    "bootswatch": "_"
+    "bootswatch": "_",
+    "custom": "_"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "logo": "/img/uploads/logo-adequim-versao-xd.png",
+  "name": "adequim-loja",
+  "short_name": "adequim-loja",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/favicon.png",
+  "country_code": "BR",
+  "secondary_color": "#3cb4e7",
+  "icon": "/img/uploads/logo-adequim-versao-xd.png",
+  "store_id": 1143,
+  "description": "teste-roque",
+  "large_icon": "/img/uploads/logo-adequim-versao-xd.png"
 }
