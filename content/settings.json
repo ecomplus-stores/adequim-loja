@@ -1,5 +1,5 @@
 {
-  "domain": "adequim-loja.netlify.app",
+  "domain": "adequim.com.br",
   "currency_symbol": "R$",
   "primary_color": "#502b80",
   "theme": {
@@ -8,8 +8,8 @@
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/adequim-e-commerce.png",
-  "name": "adequim-loja",
-  "short_name": "adequim-loja",
+  "name": "Adequim",
+  "short_name": "Adequim",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -18,6 +18,6 @@
   "secondary_color": "#3cb4e7",
   "icon": "/img/uploads/adequim-e-commerce-app.png",
   "store_id": 1143,
-  "description": "teste-roque",
+  "description": "Comércio de produtos químicos, proteção e de construção",
   "large_icon": "/img/uploads/logo-adequim-versao-xd.png"
 }
