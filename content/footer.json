@@ -38,12 +38,12 @@
     "bradesco": false,
     "santander": false,
     "mastercard": true,
-    "paypal": true,
+    "paypal": false,
     "citibank": false,
     "diners": true,
     "mais": false,
     "amex": true,
     "itau": false
   },
-  "credits": "Todos os direitos reservados - Adequim - 2020"
+  "credits": "Copyright © 2020 Adequim | Todos os direitos reservados | Adequim Comércio de Produtos Químicos Ltda - CNPJ: 17.323.537/0001-95"
 }
