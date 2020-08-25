@@ -4,8 +4,10 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/banner-adequim-teste-site.jpg",
-      "alt": "Produtos Adequim"
+      "img": "/img/uploads/banner-desktop-antimofo.webp",
+      "alt": "Antimofo Preventivo Kryll",
+      "link": "https://www.adequim.com.br/antimofo-preventivo-kryll-500-ml",
+      "mobile_img": "/img/uploads/banner-mobile-antimofo.webp"
     },
     {
       "type": "banners-grid",
