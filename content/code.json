@@ -1,5 +1,5 @@
 {
-  "css": "body {\n  font-family: 'Montserrat', sans-serif !important;\n}\n\n.product__buy button{\n  width: 100%;\n  background-color: #25BA34;\n  border-color: #25BA34;\n }\n\n@media (min-width: 992px)\n.mt-lg-4, .my-lg-4 {\n    margin-top: 0rem;\n}",
+  "css": "body {\n  font-family: 'Montserrat', sans-serif !important;\n}\n\n.product__buy button{\n  width: 100%;\n  background-color: #25BA34;\n  border-color: #25BA34;\n }\n\n.responsive-baner .my-3 .my-lg-4{\n    margin: 0px;\n}",
   "html_head": "",
   "html_body": ""
 }
