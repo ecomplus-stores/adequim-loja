@@ -3,11 +3,18 @@
   "meta_description": "Compre online produtos para proteger você e a sua casa como impermeabilizantes, antimofo e máscaras de proteção. Entrega para todo Brasil. Confira agora.",
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/banner-desktop-lancamento-adequim.webp",
-      "alt": "",
-      "link": "https://www.adequim.com.br/search",
-      "mobile_img": "/img/uploads/banner-mobile-lancamento-adequim.webp"
+      "type": "banner-slider",
+      "autoplay": 9000,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/banner-desktop-lancamento-adequim.webp",
+          "mobile_img": "/img/uploads/banner-mobile-lancamento-adequim.webp",
+          "alt": "Adequim",
+          "link": "https://www.adequim.com.br/search"
+        }
+      ]
     },
     {
       "type": "banners-grid",
