@@ -1,11 +1,11 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil"
+    "text": "Frete Grátis para Curitiba e São José dos Pinhais"
   },
   "installments": {
     "show": true,
-    "text": "Parcele em até 2 x sem juros"
+    "text": "Parcele em até 3 x sem juros"
   },
   "exchange": {
     "show": false,
