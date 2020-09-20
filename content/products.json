@@ -1,6 +1,11 @@
 {
   "sections": [
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner-responsivo-categoria-antimofo-kryll-20.webp",
+      "link": "https://www.adequim.com.br/antimofo-preventivo-kryll-500-ml"
+    },
+    {
       "type": "breadcrumbs",
       "enabled": true
     },
