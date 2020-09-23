@@ -2,8 +2,9 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/banner-responsivo-categoria-antimofo-kryll-20.webp",
-      "link": "https://www.adequim.com.br/antimofo-preventivo-kryll-500-ml"
+      "img": "/img/uploads/banner-responsivo-desktop-categoria-mascara-v5.webp",
+      "link": "https://www.adequim.com.br/mascara-protetora-de-eva-com-filtro-sms50-lifemask-v5",
+      "alt": "Máscara Protetora de EVA com Filtro SMS50 Lifemask V5"
     },
     {
       "type": "breadcrumbs",
