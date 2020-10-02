@@ -17,20 +17,6 @@
       ]
     },
     {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/banner-desktop-impermeabilizante-kryll.webp",
-          "link": "https://www.adequim.com.br/impermeabilizante-acrilico-base-de-agua-kryll-1-litro",
-          "alt": ""
-        },
-        {
-          "img": "/img/uploads/banner-desktop-antimofo-novo-kryll.webp",
-          "link": "https://www.adequim.com.br/antimofo-preventivo-kryll-500-ml"
-        }
-      ]
-    },
-    {
       "type": "info-bar",
       "enabled": true
     },
