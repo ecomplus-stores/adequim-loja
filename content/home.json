@@ -7,20 +7,12 @@
       "autoplay": 5000,
       "slides": [
         {
-          "start": "2020-10-06T13:46:01.701Z",
-          "end": "2020-10-13T02:59:49.788Z",
-          "img": "/img/uploads/banner-slide-desktop-temporada-contra-mofo-adequim-preventivo-1-litro.webp",
+          "start": "2020-10-14T20:12:10.659Z",
+          "end": "2020-10-19T02:59:49.788Z",
+          "img": "/img/uploads/banner-slide-desktop-parede-protegida.webp",
           "link": "https://www.adequim.com.br/antimofo-preventivo-kryll-1-litro",
           "alt": "Antimofo Preventivo Kryll 1 Litro",
-          "mobile_img": "/img/uploads/banner-slide-mobile-temporada-contra-mofo-adequim-preventivo-1-litro.webp"
-        },
-        {
-          "start": "2020-10-10T12:29:11.897Z",
-          "end": "2020-10-14T02:59:17.748Z",
-          "img": "/img/uploads/banner-slide-desktop-especial-para-telhados.webp",
-          "link": "https://www.adequim.com.br/impermeabilizante-acrilico-base-de-agua-kryll-20-litros",
-          "alt": "Impermeabilizante Acrílico a Base de Água Kryll 20 Litros",
-          "mobile_img": "/img/uploads/banner-slide-mobile-especial-para-telhados.webp"
+          "mobile_img": "/img/uploads/banner-slide-mobile-parede-protegida.webp"
         }
       ]
     },
