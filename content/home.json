@@ -12,6 +12,14 @@
           "img": "/img/uploads/banner-slide-desktop-frete-pela-metade.webp",
           "alt": "Frete pela metade na Adequim",
           "mobile_img": "/img/uploads/banner-slide-mobile-frete-pela-metade.webp"
+        },
+        {
+          "start": "2020-10-23T15:19:28.575Z",
+          "end": "2020-10-27T02:59:16.417Z",
+          "img": "/img/uploads/banner-slide-desktop-mascara-v3.webp",
+          "link": "https://www.adequim.com.br/mascara-protetora-eva-com-filtro-sms50-lifemask-v3",
+          "alt": "Máscara Protetora de EVA com Filtro SMS50 Lifemask V3",
+          "mobile_img": "/img/uploads/banner-slide-mobile-mascara-v3.webp"
         }
       ]
     },
