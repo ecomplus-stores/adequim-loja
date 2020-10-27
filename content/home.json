@@ -7,19 +7,12 @@
       "autoplay": 5000,
       "slides": [
         {
-          "start": "2020-10-23T14:13:08.370Z",
-          "end": "2020-10-26T02:59:28.316Z",
-          "img": "/img/uploads/banner-slide-desktop-frete-pela-metade.webp",
-          "alt": "Frete pela metade na Adequim",
-          "mobile_img": "/img/uploads/banner-slide-mobile-frete-pela-metade.webp"
-        },
-        {
-          "start": "2020-10-23T15:19:28.575Z",
-          "end": "2020-10-27T02:59:16.417Z",
-          "img": "/img/uploads/banner-slide-desktop-mascara-v3.webp",
-          "link": "https://www.adequim.com.br/mascara-protetora-eva-com-filtro-sms50-lifemask-v3",
-          "alt": "Máscara Protetora de EVA com Filtro SMS50 Lifemask V3",
-          "mobile_img": "/img/uploads/banner-slide-mobile-mascara-v3.webp"
+          "start": "2020-10-27T03:13:37.764Z",
+          "end": "2020-10-31T02:59:10.545Z",
+          "img": "/img/uploads/banner-slide-desktop-impermeabilizante-kryll-5.webp",
+          "link": "https://www.adequim.com.br/impermeabilizante-acrilico-base-de-agua-kryll-5-litros",
+          "alt": "Impermeabilizante Acrílico a Base de Água Kryll 5 Litros",
+          "mobile_img": "/img/uploads/banner-slide-mobile-impermeabilizante-kryll-5.webp"
         }
       ]
     },
