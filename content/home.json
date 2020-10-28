@@ -28,10 +28,6 @@
       "title": "Os Mais Vendidos"
     },
     {
-      "type": "custom-html",
-      "html": "<h3><a href=\"https://www.adequim.com.br/blog\">Blog da Adequim</a></h3>"
-    },
-    {
       "type": "blog",
       "enabled": true
     },
