@@ -29,7 +29,7 @@
     },
     {
       "type": "custom-content",
-      "markdown": "```\n<a href=\"https://www.adequim.com.br/blog\"><h3>Blog da Adequim</h3></a>\n```"
+      "markdown": "### **Blog da Adequim**"
     },
     {
       "type": "blog",
