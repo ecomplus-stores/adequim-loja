@@ -26,6 +26,10 @@
       "collection_id": null
     },
     {
+      "type": "page-title",
+      "title": "Blog da Adequim"
+    },
+    {
       "type": "blog",
       "enabled": true
     },
