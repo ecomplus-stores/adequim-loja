@@ -41,7 +41,7 @@
     },
     {
       "type": "blog",
-      "enabled": false
+      "enabled": true
     },
     {
       "type": "custom-html",
