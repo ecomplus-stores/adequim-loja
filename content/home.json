@@ -7,20 +7,19 @@
       "autoplay": 5000,
       "slides": [
         {
-          "start": "2020-10-27T03:13:37.764Z",
-          "end": "2020-10-31T02:59:10.545Z",
-          "img": "/img/uploads/banner-slide-desktop-impermeabilizante-kryll-5.webp",
-          "link": "https://www.adequim.com.br/impermeabilizante-acrilico-base-de-agua-kryll-5-litros",
-          "alt": "Impermeabilizante Acrílico a Base de Água Kryll 5 Litros",
-          "mobile_img": "/img/uploads/banner-slide-mobile-impermeabilizante-kryll-5.webp"
-        },
-        {
           "start": "2020-10-29T01:17:34.312Z",
           "end": "2020-11-01T02:59:10.918Z",
           "img": "/img/uploads/banner-slide-desktop-blog-adequim-mofo-em-casa.webp",
           "link": "https://www.adequim.com.br/posts/mofo-em-casa-saiba-mais-sobre-as-causas-e-como-combater-2020-10-28",
           "alt": "Mofo em casa: saiba mais sobre as causas e como combater",
           "mobile_img": "/img/uploads/banner-slide-mobile-blog-adequim-mofo-em-casa.webp"
+        },
+        {
+          "start": "2020-10-31T23:29:59.028Z",
+          "end": "2020-11-02T02:59:37.035Z",
+          "img": "/img/uploads/banner-slide-desktop-frete-gratis.webp",
+          "alt": "Frete Grátis a partir de R$ 49",
+          "mobile_img": "/img/uploads/banner-slide-mobile-frete-gratis.webp"
         }
       ]
     },
