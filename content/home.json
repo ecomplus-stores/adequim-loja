@@ -3,10 +3,6 @@
   "meta_description": "Compre online produtos para proteger você e a sua casa como impermeabilizantes, antimofo e máscaras de proteção. Entrega para todo Brasil. Confira agora.",
   "sections": [
     {
-      "type": "custom-html",
-      "html": "<img src=\"http://gen.sendtric.com/countdown/gw6sciaw1j\" style=\"display: block;\" />"
-    },
-    {
       "type": "banner-slider",
       "autoplay": 5000,
       "slides": [
