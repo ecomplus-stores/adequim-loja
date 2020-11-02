@@ -18,7 +18,11 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/antimofo?Antimofo",
+      "/impermeabilizantes?Impermeabilizantes",
+      "/mascaras?Máscaras"
+    ],
     "random": 6,
     "full_width": false
   },
