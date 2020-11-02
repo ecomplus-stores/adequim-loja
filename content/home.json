@@ -12,6 +12,13 @@
           "img": "/img/uploads/banner-slide-desktop-frete-gratis-49.webp",
           "alt": "Frete Grátis a partir de R$ 49",
           "mobile_img": "/img/uploads/banner-slide-mobile-frete-gratis.webp"
+        },
+        {
+          "start": "2020-11-02T02:59:47.245Z",
+          "end": "2020-11-03T02:59:47.273Z",
+          "img": "/img/uploads/banner-slide-desktop-frete-gratis-total.webp",
+          "alt": "Frete Grátis em todo site da Adequim",
+          "mobile_img": "/img/uploads/banner-slide-mobile-frete-gratis-total.webp"
         }
       ]
     },
