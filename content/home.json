@@ -12,6 +12,14 @@
           "img": "/img/uploads/banner-slide-desktop-frete-gratis-total.webp",
           "alt": "Frete Grátis em todo site da Adequim",
           "mobile_img": "/img/uploads/banner-slide-mobile-frete-gratis-total.webp"
+        },
+        {
+          "start": "2020-11-03T01:51:55.032Z",
+          "end": "2020-11-05T02:59:36.842Z",
+          "img": "/img/uploads/banner-slide-desktop-especial-pequenos-reparos.webp",
+          "mobile_img": "/img/uploads/banner-slide-mobile-especial-pequenos-reparos.webp",
+          "alt": "Antimofo Preventivo Kryll 500 ml",
+          "link": "https://www.adequim.com.br/antimofo-preventivo-kryll-500-ml"
         }
       ]
     },
