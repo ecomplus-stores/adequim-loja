@@ -7,19 +7,20 @@
       "autoplay": 5000,
       "slides": [
         {
-          "start": "2020-11-02T03:10:06.182Z",
-          "end": "2020-11-03T01:59:47.273Z",
-          "img": "/img/uploads/banner-slide-desktop-frete-gratis-total.webp",
-          "alt": "Frete Grátis em todo site da Adequim",
-          "mobile_img": "/img/uploads/banner-slide-mobile-frete-gratis-total.webp"
-        },
-        {
           "start": "2020-11-03T01:51:55.032Z",
           "end": "2020-11-05T02:59:36.842Z",
           "img": "/img/uploads/banner-slide-desktop-especial-pequenos-reparos.webp",
           "mobile_img": "/img/uploads/banner-slide-mobile-especial-pequenos-reparos.webp",
           "alt": "Antimofo Preventivo Kryll 500 ml",
           "link": "https://www.adequim.com.br/antimofo-preventivo-kryll-500-ml"
+        },
+        {
+          "start": "2020-11-05T01:47:19.179Z",
+          "end": "2020-11-07T02:59:49.055Z",
+          "img": "/img/uploads/banner-slide-desktop-compre-e-ganhe.webp",
+          "mobile_img": "/img/uploads/banner-slide-mobile-compre-e-ganhe.webp",
+          "alt": "Compre e Ganhe na Adequim",
+          "link": "https://www.adequim.com.br/antimofo-preventivo-kryll-1-litro"
         }
       ]
     },
@@ -32,7 +33,9 @@
       "shuffle": false,
       "collection_id": null,
       "sort": "sales",
-      "title": "Os Mais Vendidos"
+      "title": "Os Mais Vendidos",
+      "limit": 4,
+      "page": 1
     },
     {
       "type": "custom-content",
