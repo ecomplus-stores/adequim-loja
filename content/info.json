@@ -5,7 +5,7 @@
   },
   "installments": {
     "show": true,
-    "text": "Parcele em até 3 x sem juros"
+    "text": "Em até 3 x sem juros (parcela mínima R$ 50)"
   },
   "exchange": {
     "show": false,
