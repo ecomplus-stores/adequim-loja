@@ -17,10 +17,6 @@
       "enabled": true
     },
     {
-      "type": "product-block",
-      "enabled": true
-    },
-    {
       "type": "related-products",
       "title": "Produtos relacionados"
     },
