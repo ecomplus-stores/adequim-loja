@@ -7,20 +7,20 @@
       "autoplay": 5000,
       "slides": [
         {
-          "start": "2020-11-05T01:47:19.179Z",
-          "end": "2020-11-09T02:59:49.055Z",
-          "img": "/img/uploads/banner-slide-desktop-compre-e-ganhe.webp",
-          "mobile_img": "/img/uploads/banner-slide-mobile-compre-e-ganhe.webp",
-          "alt": "Compre e Ganhe na Adequim",
-          "link": "https://www.adequim.com.br/antimofo-preventivo-kryll-1-litro"
-        },
-        {
           "start": "2020-11-09T02:59:28.125Z",
           "end": "2020-11-10T02:59:28.157Z",
           "img": "/img/uploads/banner-slide-desktop-compre-e-ganhe-ultimo-dia.webp",
           "link": "https://www.adequim.com.br/antimofo-preventivo-kryll-1-litro",
           "alt": "Antimofo Preventivo Kryll 1 Litro",
           "mobile_img": "/img/uploads/banner-slide-mobile-compre-e-ganhe-ultimo-dia.webp"
+        },
+        {
+          "start": "2020-11-10T02:59:31.996Z",
+          "end": "2020-11-12T02:59:32.016Z",
+          "img": "/img/uploads/banner-slide-desktop-compre-4-pague-3-impermeabilizante.webp",
+          "mobile_img": "/img/uploads/banner-slide-mobile-compre-4-pague-3-impermeabilizante.webp",
+          "link": "https://www.adequim.com.br/impermeabilizante-acrilico-base-de-agua-kryll-1-litro",
+          "alt": "Impermeabilizante Acrílico a Base de Água Kryll 1 Litro - Leve 4 Pague 3"
         }
       ]
     },
