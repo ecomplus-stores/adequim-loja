@@ -20,6 +20,13 @@
           "img": "/img/uploads/banner-slide-desktop-sexta-13.webp",
           "alt": "Sexta-feira 13 com desconto na Adequim",
           "mobile_img": "/img/uploads/banner-slide-mobile-sexta-13.webp"
+        },
+        {
+          "start": "2020-11-14T02:59:27.028Z",
+          "end": "2020-11-16T02:59:27.055Z",
+          "img": "/img/uploads/banner-slide-desktop-compre-e-ganhe-30.webp",
+          "mobile_img": "/img/uploads/banner-slide-mobile-compre-e-ganhe-30.webp",
+          "alt": "Compre e Ganhe na Adequim"
         }
       ]
     },
