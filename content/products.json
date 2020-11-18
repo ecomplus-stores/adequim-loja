@@ -17,6 +17,10 @@
       "enabled": true
     },
     {
+      "type": "custom-html",
+      "html": "<iframe id='AV_widget_iframe' frameBorder=\"0\" width=\"100%\" height=\"100%\" src=\"//cl.avis-verifies.com/br/cache/7/3/3/7336f5ae-c467-9cd4-51e2-b4829f310543/widget4/7336f5ae-c467-9cd4-51e2-b4829f310543horizontal_index.html\"></iframe>\n"
+    },
+    {
       "type": "related-products",
       "title": "Produtos relacionados"
     },
