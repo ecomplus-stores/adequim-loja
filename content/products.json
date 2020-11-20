@@ -13,6 +13,10 @@
       "enabled": true
     },
     {
+      "type": "product-specifications",
+      "enabled": true
+    },
+    {
       "type": "product-description",
       "enabled": true
     },
