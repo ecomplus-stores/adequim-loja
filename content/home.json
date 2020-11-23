@@ -23,11 +23,12 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "collection_id": null,
+      "collection_id": "5f2c59b9f023684cdbd7f91d:categories:Impermeabilizantes:/impermeabilizantes",
       "sort": "sales",
-      "title": "Os Mais Vendidos",
+      "title": "Impermeabilizantes",
       "limit": 4,
-      "page": 1
+      "page": 1,
+      "link": "https://www.adequim.com.br/impermeabilizantes"
     },
     {
       "type": "custom-html",
