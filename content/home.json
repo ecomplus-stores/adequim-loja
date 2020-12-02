@@ -5,7 +5,16 @@
     {
       "type": "banner-slider",
       "autoplay": 5000,
-      "slides": []
+      "slides": [
+        {
+          "start": "2020-12-02T22:02:29.964Z",
+          "end": "2020-12-07T02:59:30.009Z",
+          "img": "/img/uploads/banner-desktop-protecao-com-estilo-aditivo-antimofo.webp",
+          "link": "https://www.adequim.com.br/antimofo-aditivo-para-tintas-kryll-100-ml",
+          "alt": "Antimofo Aditivo Para Tintas Kryll",
+          "mobile_img": "/img/uploads/banner-mobile-protecao-com-estilo-aditivo-antimofo.webp"
+        }
+      ]
     },
     {
       "type": "info-bar",
