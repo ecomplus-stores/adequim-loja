@@ -7,20 +7,12 @@
       "autoplay": 5000,
       "slides": [
         {
-          "start": "2020-12-04T00:53:41.560Z",
-          "end": "2020-12-08T02:59:35.135Z",
-          "img": "/img/uploads/banner-desktop-impermeabilizante-kryll-5-litros.webp",
-          "mobile_img": "/img/uploads/banner-mobile-impermeabilizante-kryll-5-litros.webp",
-          "link": "https://www.adequim.com.br/impermeabilizante-acrilico-base-de-agua-kryll-5-litros",
-          "alt": "Impermeabilizante Acrílico a Base de Água Kryll 5 Litros"
-        },
-        {
-          "start": "2020-12-02T22:02:29.964Z",
-          "end": "2020-12-07T02:59:30.009Z",
-          "img": "/img/uploads/banner-desktop-protecao-com-estilo-aditivo-antimofo.webp",
-          "link": "https://www.adequim.com.br/antimofo-aditivo-para-tintas-kryll-100-ml",
-          "alt": "Antimofo Aditivo Para Tintas Kryll",
-          "mobile_img": "/img/uploads/banner-mobile-protecao-com-estilo-aditivo-antimofo.webp"
+          "start": "2020-12-09T15:27:50.125Z",
+          "end": "2020-12-14T02:59:47.626Z",
+          "img": "/img/uploads/banner-desktop-protecao-com-estilo-aditivo-antimofo-500.webp",
+          "mobile_img": "/img/uploads/banner-mobile-protecao-com-estilo-aditivo-antimofo-500.webp",
+          "link": "https://www.adequim.com.br/antimofo-aditivo-para-tintas-kryll-500-ml",
+          "alt": "Antimofo Aditivo Para Tintas Kryll 500 ml"
         }
       ]
     },
