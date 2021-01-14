@@ -7,19 +7,12 @@
       "autoplay": 5000,
       "slides": [
         {
-          "start": "2020-12-22T12:50:52.055Z",
-          "end": "2021-01-04T02:59:48.572Z",
-          "img": "/img/uploads/banner-desktop-ferias-adequim.webp",
-          "mobile_img": "/img/uploads/banner-mobile-ferias-adequim.webp",
-          "alt": "Férias Adequim"
-        },
-        {
-          "start": "2020-12-18T02:59:37.897Z",
-          "end": "2020-12-27T02:59:37.917Z",
-          "img": "/img/uploads/banner-desktop-ofertas-de-verao-adequim.webp",
-          "link": "https://www.adequim.com.br/ofertas-de-verao-adequim",
-          "alt": "Ofertas de Verão Adequim",
-          "mobile_img": "/img/uploads/banner-mobile-ofertas-de-verao-adequim.webp"
+          "start": "2021-01-14T15:26:51.614Z",
+          "end": "2021-01-19T02:59:30.080Z",
+          "img": "/img/uploads/banner-desktop-ofertas-de-verao-adequim-impermeabilizante-5-litros.webp",
+          "link": "https://www.adequim.com.br/impermeabilizante-acrilico-base-de-agua-kryll-5-litros",
+          "alt": "Impermeabilizante Acrílico a Base de Água Kryll 5 Litros",
+          "mobile_img": "/img/uploads/banner-mobile-ofertas-de-verao-adequim-impermeabilizante-5-litros.webp"
         }
       ]
     },
