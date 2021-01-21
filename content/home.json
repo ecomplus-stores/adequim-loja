@@ -61,6 +61,10 @@
     },
     {
       "type": "custom-html",
+      "html": "<script src=\"https://www.sowecms.com/demos/InstagramFeed/dist/InstagramFeed.min.js\"></script>\n<div id=\"instagram-feed\" class=\"instagram_feed\"></div>\n<script>\n    (function(){\n        new InstagramFeed({\n            'username': 'adequim.com.br',\n            'container': document.getElementById(\"instagram-feed\"),\n            'display_profile': false,\n            'display_biography': false,\n            'display_igtv': false,\n            'display_gallery': true,\n            'get_raw_json': false,\n            'callback': null,\n            'styling': true,\n            'items': 4,\n            'items_per_row': 4,\n            'margin': 1\n        });\n    })();\n</script>"
+    },
+    {
+      "type": "custom-html",
       "html": "<iframe id='AV_widget_iframe' frameBorder=\"0\" width=\"100%\" height=\"100%\" src=\"//cl.avis-verifies.com/br/cache/7/3/3/7336f5ae-c467-9cd4-51e2-b4829f310543/widget4/7336f5ae-c467-9cd4-51e2-b4829f310543horizontal_index.html\"></iframe>\n"
     }
   ]
