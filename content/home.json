@@ -7,11 +7,12 @@
       "autoplay": 5000,
       "slides": [
         {
-          "start": "2021-02-01T11:39:28.748Z",
-          "end": "2021-02-08T02:59:41.655Z",
-          "img": "/img/uploads/banner-desktop-semana-do-cupom.webp",
-          "alt": "Semana do Cupom Adequim",
-          "mobile_img": "/img/uploads/banner-mobile-semana-do-cupom.webp"
+          "start": "2021-02-12T00:30:56.698Z",
+          "end": "2021-02-17T02:59:58.323Z",
+          "img": "/img/uploads/banner-desktop-carnaval-mascara-v3.webp",
+          "link": "https://www.adequim.com.br/mascara-protetora-eva-com-filtro-sms50-lifemask-v3",
+          "alt": "Máscara Protetora de EVA com Filtro SMS50 Lifemask V3",
+          "mobile_img": "/img/uploads/banner-mobile-carnaval-mascara-v3.webp"
         }
       ]
     },
