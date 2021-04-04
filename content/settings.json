@@ -1,6 +1,5 @@
 {
-  "store_id": 1143,
-  "domain": "adequim.com.br",
+  "domain": "www.adequim.com.br",
   "currency_symbol": "R$",
   "primary_color": "#502b80",
   "theme": {
@@ -18,6 +17,7 @@
   "country_code": "BR",
   "secondary_color": "#3cb4e7",
   "icon": "/img/uploads/adequim-e-commerce-app.png",
+  "store_id": 1143,
   "description": "Compre online produtos para proteger você e a sua casa como impermeabilizantes, antimofo e máscaras de proteção. Entrega para todo Brasil. Confira agora.",
   "large_icon": "/img/uploads/logo-adequim-versao-xd.png"
 }
