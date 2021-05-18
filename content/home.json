@@ -4,15 +4,15 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 5000,
+      "autoplay": 9000,
       "slides": [
         {
-          "start": "2021-05-02T21:25:40.114Z",
-          "end": "2021-05-08T02:59:13.001Z",
-          "img": "/img/uploads/banner-desktop-impermeabilizante-kryll-5-litros-para-paredes.webp",
-          "mobile_img": "/img/uploads/banner-mobile-impermeabilizante-kryll-5-litros-para-paredes.webp",
-          "link": "https://www.adequim.com.br/impermeabilizante-acrilico-base-de-agua-kryll-5-litros",
-          "alt": "Impermeabilizante Acrílico a Base de Água Kryll 5 Litros"
+          "start": "2021-05-18T21:52:46.808Z",
+          "end": "2021-05-27T02:59:49.134Z",
+          "img": "/img/uploads/banner-desktop-impermeabilizante-kryll-1-litro.webp",
+          "link": "https://www.adequim.com.br/impermeabilizante-acrilico-base-de-agua-kryll-1-litro",
+          "alt": "Impermeabilizante Acrílico a Base de Água Kryll 1 Litro",
+          "mobile_img": "/img/uploads/banner-mobile-impermeabilizante-kryll-1-litro.webp"
         }
       ]
     },
