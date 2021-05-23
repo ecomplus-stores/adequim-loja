@@ -17,6 +17,16 @@
       ]
     },
     {
+      "type": "banners-grid",
+      "banners": [
+        {
+          "img": "/img/uploads/banner-grid-desktop-antimofo-preventivo-kryll-500-ml-cozinha.webp",
+          "link": "https://www.adequim.com.br/antimofo-preventivo-kryll-500-ml",
+          "alt": "Antimofo Preventivo Kryll 500 ml"
+        }
+      ]
+    },
+    {
       "type": "info-bar",
       "enabled": true
     },
