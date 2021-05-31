@@ -18,10 +18,6 @@
     {
       "type": "document-description",
       "enabled": true
-    },
-    {
-      "type": "brand-retail",
-      "enabled": true
     }
   ]
 }
