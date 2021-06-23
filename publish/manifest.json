@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.5c8dbf38360b5a98d6b982a18f572c05.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.b629d1a7ef65fb6e990f150e0897dec9.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.6aea0092d5862217aa96a0b9bfb6eb7d.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.f8ec9ebd6e394832f46866712f390428.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.c1303ab58c27c48fb0022b035aeaf5a9.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Adequim",
+  "short_name": "Adequim",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Compre online produtos para proteger você e a sua casa como impermeabilizantes, antimofo e máscaras de proteção. Entrega para todo Brasil. Confira agora.",
+  "background_color": "#ffffff",
+  "theme_color": "#502b80"
+}
