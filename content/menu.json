@@ -1,5 +1,9 @@
 {
-  "sort_categories": [],
+  "sort_categories": [
+    "antimofo",
+    "impermeabilizantes",
+    "mascaras"
+  ],
   "phone_wpp": true,
   "socials": true
 }
