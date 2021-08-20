@@ -1,1 +1,49 @@
 // Add your custom CSS here.
+.cookieconsent {
+    position: fixed;
+    bottom: 6rem;
+    padding: 1rem .5rem;
+    background-color: #fff;
+    box-shadow: 0 0 40px 0 #502b80;
+    z-index: 999;
+    width:100%;
+    margin: 0 auto;
+  
+    .text {
+      color: #502b80;
+      font-size: 13px;
+      line-height: initial;
+    }
+  
+    button {
+      &:hover {
+        color:#fff;
+        background:#502b80
+      }
+      color: #502b80;
+      font-weight: 700;
+      display: block;
+      white-space: nowrap;
+      text-transform: uppercase;
+      padding: 10px 15px;
+      font-size: 12px;
+      border: 1px solid #502b80;
+      border-radius: 50px;
+      outline: none;
+      transition:all .2s
+    }
+  
+    .row{
+      display:flex;
+      align-items:center;
+    }
+  
+    @media (max-width: 991.98px) {
+      .product-buy-button {
+        width: 100%;
+        margin-top:15px;
+      }
+      padding:10px;
+      bottom: 0
+    }
+  }
