@@ -4,7 +4,7 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 0,
+      "autoplay": 9000,
       "slides": [
         {
           "start": "2021-10-18T23:52:21.310Z",
@@ -13,6 +13,21 @@
           "mobile_img": "/img/uploads/banner-mobile-antimofo-preventivo-kryll-500-ml-casa-protegida.webp",
           "link": "https://www.adequim.com.br/antimofo-preventivo-kryll-500-ml",
           "alt": "Antimofo Preventivo Kryll 500 ml"
+        },
+        {
+          "start": "2021-11-01T03:00:56.512Z",
+          "end": "2021-11-05T02:59:56.544Z",
+          "img": "/img/uploads/banner-desktop-black-start.png",
+          "alt": "Black Start - O início do mês da Black Friday",
+          "mobile_img": "/img/uploads/banner-mobile-black-start.webp"
+        },
+        {
+          "start": "2021-11-01T03:00:32.783Z",
+          "end": "2021-11-05T02:59:32.813Z",
+          "img": "/img/uploads/banner-desktop-black-start-impermeabilizante-kryll-20-litros.webp",
+          "link": "https://www.adequim.com.br/impermeabilizante-acrilico-base-de-agua-kryll-20-litros",
+          "alt": "Impermeabilizante Acrílico a Base de Água Kryll 20 Litros",
+          "mobile_img": "/img/uploads/banner-mobile-black-start-impermeabilizante-kryll-20-litros.webp"
         }
       ]
     },
