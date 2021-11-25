@@ -4,16 +4,8 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 8000,
       "slides": [
-        {
-          "start": "2021-11-22T15:08:52.280Z",
-          "end": "2021-11-26T02:59:28.844Z",
-          "img": "/img/uploads/banner-desktop-black-week-impermeabilizante-kryll-20-litros.webp",
-          "link": "https://www.adequim.com.br/impermeabilizante-acrilico-base-de-agua-kryll-20-litros",
-          "alt": "Impermeabilizante Acrílico a Base de Água Kryll 20 Litros",
-          "mobile_img": "/img/uploads/banner-mobile-black-week-impermeabilizante-kryll-20-litros.webp"
-        },
         {
           "start": "2021-11-25T13:58:39.892Z",
           "end": "2021-11-30T02:59:45.415Z",
@@ -21,6 +13,14 @@
           "mobile_img": "/img/uploads/banner-mobile-black-friday-kit-impermeabilizante-kryll-5-litros-e-aditivo-100-ml.webp",
           "alt": "Kit Impermeabilizante Acrílico a Base de Água Kryll 5 Litros + 2 Antimofo Aditivo Para Tintas Kryll 100 ml",
           "link": "https://www.adequim.com.br/kit-impermeabilizante-acrilico-a-base-de-agua-kryll-5-litros-2-antimofo-aditivo-para-tintas-kryll-100-ml"
+        },
+        {
+          "start": "2021-11-25T15:05:37.896Z",
+          "end": "2021-11-30T02:59:34.619Z",
+          "img": "/img/uploads/banner-desktop-black-friday-impermeabilizante-kryll-20-litros.webp",
+          "mobile_img": "/img/uploads/banner-mobile-black-friday-impermeabilizante-kryll-20-litros.webp",
+          "link": "https://www.adequim.com.br/impermeabilizante-acrilico-base-de-agua-kryll-20-litros",
+          "alt": "Impermeabilizante Acrílico a Base de Água Kryll 20 Litros"
         }
       ]
     },
