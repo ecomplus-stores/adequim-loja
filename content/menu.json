@@ -2,8 +2,10 @@
   "sort_categories": [
     "antimofo",
     "impermeabilizantes",
-    "mascaras"
+    "mascaras",
+    "removedores"
   ],
   "phone_wpp": true,
-  "socials": true
+  "socials": true,
+  "alphabetical_order": true
 }
