@@ -1,6 +1,10 @@
 {
   "sections": [
     {
+      "type": "custom-content",
+      "markdown": "#### **IMPORTANTE**\n\nEstaremos em recesso entre os dias 22 à 26 de Dezembro de 2021. Os pedidos efetuados nesse período serão enviados a partir do dia 27 de Dezembro de 2021. Agradecemos a compreensão e desejamos um Feliz Natal."
+    },
+    {
       "type": "breadcrumbs",
       "enabled": true
     },
