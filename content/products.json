@@ -1,6 +1,10 @@
 {
   "sections": [
     {
+      "type": "custom-content",
+      "markdown": "**AVISO**\n\nEstaremos em recesso entre os dias **28/12/2021 à 03/01/2022**. Os pedidos efetuados e aprovados nesse período serão enviados a partir do dia **04/01/2022**. Agradecemos à compreensão e aproveitamos para desejar um Feliz Ano Novo."
+    },
+    {
       "type": "breadcrumbs",
       "enabled": true
     },
@@ -27,10 +31,6 @@
     {
       "type": "recommended-products",
       "title": "Quem comprou este produto, também comprou:"
-    },
-    {
-      "type": "custom-content",
-      "markdown": "**AVISO**\n\nEstaremos em recesso entre os dias **28/12/2021 à 03/01/2022**. Os pedidos efetuados e aprovados nesse período serão enviados a partir do dia **04/01/2022**. Agradecemos à compreensão e aproveitamos para desejar um Feliz Ano Novo."
     }
   ]
 }
