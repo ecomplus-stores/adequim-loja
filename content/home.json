@@ -7,20 +7,12 @@
       "autoplay": 8000,
       "slides": [
         {
-          "start": "2022-03-29T19:19:07.749Z",
-          "end": "2022-04-06T02:59:01.732Z",
-          "img": "/img/uploads/banner-desktop-saldao-do-consumidor-combo-impermeabilizante-20-antimofo-5.webp",
-          "link": "https://www.adequim.com.br/combo-impermeabilizante-acrilico-a-base-de-agua-kryll-20-litros-antimofo-preventivo-kryll-5-litros",
-          "alt": "Combo 1 Impermeabilizante Acrílico a Base de Água Kryll 20 Litros + 1 Antimofo Preventivo Kryll 5 Litros",
-          "mobile_img": "/img/uploads/banner-mobile-saldao-do-consumidor-combo-impermeabilizante-20-antimofo-5.webp"
-        },
-        {
-          "start": "2022-03-29T19:59:59.946Z",
-          "end": "2022-04-06T02:59:50.842Z",
-          "img": "/img/uploads/banner-desktop-saldao-do-consumidor-frete-gratis-adequim-removedor-de-ferrugem.webp",
-          "link": "https://www.adequim.com.br/adequim-removedor-de-ferrugem-1-litro",
-          "alt": "Adequim Removedor de Ferrugem 1 Litro",
-          "mobile_img": "/img/uploads/banner-mobile-saldao-do-consumidor-frete-gratis-adequim-removedor-de-ferrugem.webp"
+          "start": "2022-04-21T18:02:35.208Z",
+          "end": "2022-04-25T02:59:36.764Z",
+          "img": "/img/uploads/banner-desktop-feriadao-desconto-antimofo-kryll-1-litro.webp",
+          "link": "https://www.adequim.com.br/antimofo-preventivo-kryll-1-litro",
+          "alt": "Antimofo Preventivo Kryll 1 Litro",
+          "mobile_img": "/img/uploads/banner-mobile-feriadao-desconto-antimofo-kryll-1-litro.webp"
         }
       ],
       "full_width": true
