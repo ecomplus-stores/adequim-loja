@@ -1,7 +1,7 @@
 {
   "marketing_stripe": {
-    "text": "Frete Grátis a partir de R$ 99 (Sul e Sudeste)",
-    "link": "",
+    "text": "Cupom CHURRASCO10 para Impermeabilizantes. Aproveite!",
+    "link": "https://www.adequim.com.br/impermeabilizantes",
     "background": "#502b80",
     "color": "#ffffff"
   },
@@ -27,5 +27,6 @@
     "random": 0,
     "full_width": false
   },
-  "search_input": true
+  "search_input": true,
+  "desktop_megamenu": true
 }
