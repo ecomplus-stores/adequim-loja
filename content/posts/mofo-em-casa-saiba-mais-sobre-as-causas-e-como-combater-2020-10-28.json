@@ -8,6 +8,10 @@
   "meta_title": "Mofo em casa: saiba mais sobre as causas e como combater - Blog da Adequim",
   "sections": [
     {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
       "page": 1,
       "title": "Confira os produtos que ajudam no combate ao mofo",
       "shuffle": true,
