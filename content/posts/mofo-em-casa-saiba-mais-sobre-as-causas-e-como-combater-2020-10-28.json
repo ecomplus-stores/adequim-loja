@@ -12,6 +12,10 @@
       "enabled": true
     },
     {
+      "type": "blog-post",
+      "enabled": true
+    },
+    {
       "page": 1,
       "title": "Confira os produtos que ajudam no combate ao mofo",
       "shuffle": true,
