@@ -7,12 +7,12 @@
       "autoplay": 8000,
       "slides": [
         {
-          "start": "2022-05-25T16:49:09.314Z",
-          "end": "2022-06-01T02:59:04.966Z",
-          "img": "/img/uploads/banner-desktop-fim-de-mes-impermeabilizante-kryll-20-litros.webp",
-          "mobile_img": "/img/uploads/banner-mobile-fim-de-mes-impermeabilizante-kryll-20-litros.webp",
-          "link": "https://www.adequim.com.br/impermeabilizante-acrilico-base-de-agua-kryll-20-litros",
-          "alt": "Impermeabilizante Acrílico a Base de Água Kryll 20 Litros"
+          "start": "2022-06-07T16:49:22.246Z",
+          "end": "2022-06-14T02:59:21.385Z",
+          "img": "/img/uploads/banner-desktop-antimofo-kryll-5-litros-15-off.webp",
+          "link": "https://www.adequim.com.br/antimofo-preventivo-kryll-5-litros",
+          "alt": "Antimofo Preventivo Kryll 5 Litros",
+          "mobile_img": "/img/uploads/banner-mobile-antimofo-kryll-5-litros-15-off.webp"
         },
         {
           "start": "2022-05-31T11:35:15.722Z",
@@ -21,30 +21,6 @@
           "link": "https://www.adequim.com.br/adequim-removedor-de-ferrugem-1-litro",
           "alt": "Adequim Removedor de Ferrugem 1 Litro",
           "mobile_img": "/img/uploads/banner-mobile-adequim-removedor-de-ferrugem-maio-2022.webp"
-        },
-        {
-          "start": "2022-05-19T15:07:58.584Z",
-          "end": "2022-05-28T02:59:39.066Z",
-          "img": "/img/uploads/banner-desktop-novo-impermeabilizante-kryll-1-litro.webp",
-          "mobile_img": "/img/uploads/banner-mobile-novo-impermeabilizante-kryll-1-litro.webp",
-          "link": "https://www.adequim.com.br/impermeabilizante-acrilico-base-de-agua-kryll-1-litro",
-          "alt": "Impermeabilizante Acrílico a Base de Água Kryll 1 Litro"
-        },
-        {
-          "start": "2022-05-14T13:44:29.785Z",
-          "end": "2022-05-28T02:59:24.809Z",
-          "img": "/img/uploads/banner-desktop-aditivo-antimofo-kryll-maio-2022.webp",
-          "mobile_img": "/img/uploads/banner-mobile-aditivo-antimofo-kryll-maio-2022.webp",
-          "link": "https://www.adequim.com.br/antimofo-aditivo-para-tintas-kryll-500-ml",
-          "alt": "Antimofo Aditivo Para Tintas Kryll 500 ml"
-        },
-        {
-          "start": "2022-05-16T15:49:01.690Z",
-          "end": "2022-05-28T02:59:13.163Z",
-          "img": "/img/uploads/banner-desktop-antimofo-preventivo-kryll-maio-2022.webp",
-          "link": "https://www.adequim.com.br/antimofo-preventivo-kryll-5-litros",
-          "alt": "Antimofo Preventivo Kryll 5 Litros",
-          "mobile_img": "/img/uploads/banner-mobile-antimofo-preventivo-kryll-maio-2022.webp"
         }
       ],
       "full_width": true
