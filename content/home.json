@@ -4,15 +4,15 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 8000,
+      "autoplay": 7000,
       "slides": [
         {
-          "start": "2022-07-01T03:32:38.169Z",
-          "end": "2022-07-04T02:59:01.001Z",
-          "img": "/img/uploads/banner-desktop-novo-impermeabilizante-kryll-1-litro.webp",
-          "alt": "Impermeabilizante Acrílico a Base de Água Kryll 1 Litro",
-          "mobile_img": "/img/uploads/banner-mobile-novo-impermeabilizante-kryll-1-litro.webp",
-          "link": "https://www.adequim.com.br/impermeabilizante-acrilico-base-de-agua-kryll-1-litro"
+          "start": "2022-07-09T23:09:11.055Z",
+          "end": "2022-07-18T02:59:25.901Z",
+          "img": "/img/uploads/banner-desktop-adequim-removedor-de-ferrugem-maio-2022.webp",
+          "link": "https://www.adequim.com.br/adequim-removedor-de-ferrugem-1-litro",
+          "alt": "Adequim Removedor de Ferrugem 1 Litro",
+          "mobile_img": "/img/uploads/banner-mobile-adequim-removedor-de-ferrugem-maio-2022.webp"
         },
         {
           "start": "2022-07-04T00:32:10.939Z",
