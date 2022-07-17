@@ -7,20 +7,12 @@
       "autoplay": 7000,
       "slides": [
         {
-          "start": "2022-07-09T23:09:11.055Z",
-          "end": "2022-07-18T02:59:25.901Z",
-          "img": "/img/uploads/banner-desktop-adequim-removedor-de-ferrugem-maio-2022.webp",
-          "link": "https://www.adequim.com.br/adequim-removedor-de-ferrugem-1-litro",
-          "alt": "Adequim Removedor de Ferrugem 1 Litro",
-          "mobile_img": "/img/uploads/banner-mobile-adequim-removedor-de-ferrugem-maio-2022.webp"
-        },
-        {
-          "start": "2022-07-04T00:32:10.939Z",
-          "end": "2022-07-10T02:59:29.567Z",
-          "img": "/img/uploads/banner-desktop-antimofo-preventivo-kryll-500-ml-casa-protegida.webp",
-          "mobile_img": "/img/uploads/banner-mobile-antimofo-preventivo-kryll-500-ml-casa-protegida.webp",
-          "link": "https://www.adequim.com.br/antimofo-preventivo-kryll-500-ml",
-          "alt": "Antimofo Preventivo Kryll 500 ml"
+          "start": "2022-07-17T21:10:28.599Z",
+          "end": "2022-07-25T02:59:48.052Z",
+          "img": "/img/uploads/banner-desktop-antimofo-kryll-5-litros-julho-22.webp",
+          "link": "https://www.adequim.com.br/antimofo-preventivo-kryll-5-litros",
+          "alt": "Antimofo Preventivo Kryll 5 Litros",
+          "mobile_img": "/img/uploads/banner-mobile-antimofo-kryll-5-litros-julho-22.webp"
         }
       ],
       "full_width": true
