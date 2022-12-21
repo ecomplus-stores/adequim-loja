@@ -7,6 +7,13 @@
       "autoplay": 7000,
       "slides": [
         {
+          "start": "2022-12-21T14:57:48.465Z",
+          "end": "2022-12-24T02:59:00.000Z",
+          "img": "/img/uploads/banner-desktop-recesso-adequim.webp",
+          "alt": "Aviso de recesso Adequim",
+          "mobile_img": "/img/uploads/banner-mobile-recesso-adequim.webp"
+        },
+        {
           "start": "2022-12-21T13:35:17.952Z",
           "end": "2023-01-01T02:59:46.506Z",
           "img": "/img/uploads/banner-desktop-antimofo-kryll-5-litros-julho-22.webp",
