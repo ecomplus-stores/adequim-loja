@@ -7,6 +7,13 @@
       "autoplay": 7000,
       "slides": [
         {
+          "start": "2022-12-28T03:01:00.000Z",
+          "end": "2023-01-02T18:00:00.000Z",
+          "img": "/img/uploads/banner-desktop-recesso-ano-novo-adequim.webp",
+          "alt": "Recesso Adequim",
+          "mobile_img": "/img/uploads/banner-mobile-recesso-ano-novo-adequim.webp"
+        },
+        {
           "start": "2022-12-27T13:40:12.462Z",
           "end": "2023-01-10T02:59:00.000Z",
           "img": "/img/uploads/banner-desktop-verao-protegido-2023.webp",
