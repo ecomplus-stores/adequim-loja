@@ -1,7 +1,7 @@
 {
   "marketing_stripe": {
-    "text": "Impermeabilizante Kryll 20 Litros >>> 10% de Desconto",
-    "link": "https://www.adequim.com.br/impermeabilizante-acrilico-base-de-agua-kryll-20-litros",
+    "text": "Recesso do dia 28/12/2022 até 03/01/2023. Feliz Ano Novo! :)",
+    "link": "",
     "background": "#502b80",
     "color": "#ffffff"
   },
@@ -28,5 +28,7 @@
     "full_width": false
   },
   "search_input": true,
-  "desktop_megamenu": true
+  "desktop_megamenu": true,
+  "alphabetical_order_submenu": true,
+  "full_width_submenu": true
 }
