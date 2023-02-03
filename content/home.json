@@ -7,20 +7,12 @@
       "autoplay": 7000,
       "slides": [
         {
-          "start": "2023-01-12T15:29:20.556Z",
-          "end": "2023-02-01T02:59:00.000Z",
-          "img": "/img/uploads/banner-desktop-verao-protegido-2023.webp",
-          "link": "https://www.adequim.com.br/impermeabilizante-acrilico-base-de-agua-kryll-20-litros",
-          "alt": "Impermeabilizante Acrílico a Base de Água Kryll 20 Litros",
-          "mobile_img": "/img/uploads/banner-mobile-verao-protegido-2023.webp"
-        },
-        {
-          "start": "2023-01-05T21:31:17.839Z",
-          "end": "2023-02-01T02:59:00.000Z",
-          "img": "/img/uploads/banner-desktop-adeus-ferrugem.webp",
-          "link": "https://www.adequim.com.br/adequim-removedor-de-ferrugem-1-litro",
-          "alt": "Adequim Removedor de Ferrugem 1 Litro",
-          "mobile_img": "/img/uploads/banner-mobile-adeus-ferrugem.webp"
+          "start": "2023-02-03T18:05:47.483Z",
+          "end": "2023-02-11T02:59:00.000Z",
+          "img": "/img/uploads/banner-desktop-antimofo-kryll-5-litros-julho-22.webp",
+          "mobile_img": "/img/uploads/banner-mobile-antimofo-kryll-5-litros-julho-22.webp",
+          "link": "https://www.adequim.com.br/antimofo-preventivo-kryll-5-litros",
+          "alt": "Antimofo Preventivo Kryll 5 Litros"
         }
       ],
       "full_width": true
