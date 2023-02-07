@@ -7,12 +7,12 @@
       "autoplay": 7000,
       "slides": [
         {
-          "start": "2023-02-03T18:05:47.483Z",
-          "end": "2023-02-11T02:59:00.000Z",
-          "img": "/img/uploads/banner-desktop-antimofo-kryll-5-litros-julho-22.webp",
-          "mobile_img": "/img/uploads/banner-mobile-antimofo-kryll-5-litros-julho-22.webp",
+          "start": "2023-02-07T17:37:49.172Z",
+          "end": "2023-02-28T02:59:00.000Z",
+          "img": "/img/uploads/banner-desktop-antimofo-kryll-5-litros-fevereiro-23.webp",
           "link": "https://www.adequim.com.br/antimofo-preventivo-kryll-5-litros",
-          "alt": "Antimofo Preventivo Kryll 5 Litros"
+          "alt": "Antimofo Preventivo Kryll 5 Litros",
+          "mobile_img": "/img/uploads/banner-mobile-antimofo-kryll-5-litros-fevereiro-23.webp"
         }
       ],
       "full_width": true
