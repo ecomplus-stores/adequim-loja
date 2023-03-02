@@ -32,6 +32,13 @@
       "link": "https://www.adequim.com.br/antimofo"
     },
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner-desktop-adeus-ferrugem-adequim.webp",
+      "mobile_img": "/img/uploads/banner-mobile-adeus-ferrugem-adequim.webp",
+      "link": "https://www.adequim.com.br/adequim-removedor-de-ferrugem-1-litro",
+      "alt": "Adequim Removedor de Ferrugem 1 Litro"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 4,
