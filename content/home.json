@@ -21,6 +21,14 @@
           "link": "https://www.adequim.com.br/search",
           "alt": "Fim de Semana do Consumidor Adequim",
           "mobile_img": "/img/uploads/banner-mobile-fim-de-semana-do-consumidor-adequim-2023.webp"
+        },
+        {
+          "start": "2023-03-20T03:01:00.000Z",
+          "end": "2023-03-25T02:59:00.000Z",
+          "img": "/img/uploads/banner-desktop-mes-do-consumidor-adequim-2023-antimofo-500.webp",
+          "link": "https://www.adequim.com.br/antimofo-preventivo-kryll-500-ml",
+          "alt": "Antimofo Preventivo Kryll 500 ml - Leve 4 Pague 3",
+          "mobile_img": "/img/uploads/banner-mobile-mes-do-consumidor-adequim-2023-antimofo-500.webp"
         }
       ],
       "full_width": true
