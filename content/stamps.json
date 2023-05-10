@@ -1,0 +1,16 @@
+{
+  "stamps_list": [
+    {
+      "id": "Frete Grátis",
+      "img": "/img/uploads/selo-frete-gratis.png",
+      "skus": [
+        "ADE0015",
+        "ADE0002",
+        "ADE0010",
+        "ADE0005",
+        "ADE0006",
+        "ADE0016"
+      ]
+    }
+  ]
+}
