@@ -7,6 +7,14 @@
       "autoplay": 7000,
       "slides": [
         {
+          "start": "2023-06-06T14:41:12.604Z",
+          "end": "2023-07-01T02:59:00.000Z",
+          "img": "/img/uploads/banner-desktop-tira-manchas-de-ferrugem-adequim-lancamento.webp",
+          "link": "https://www.adequim.com.br/tira-manchas-de-ferrugem-adequim-500-ml",
+          "alt": "Tira Manchas de Ferrugem Adequim 500 ml",
+          "mobile_img": "/img/uploads/banner-mobile-tira-manchas-de-ferrugem-adequim-lancamento.webp"
+        },
+        {
           "start": "2023-06-01T13:34:53.044Z",
           "end": "2023-06-13T02:59:00.000Z",
           "img": "/img/uploads/banner-desktop-ecologico-impermeabilizante-kryll-5-litros.webp",
