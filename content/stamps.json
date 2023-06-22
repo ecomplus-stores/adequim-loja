@@ -11,6 +11,13 @@
         "ADE0006",
         "ADE0016"
       ]
+    },
+    {
+      "id": "Ganhe Um",
+      "img": "/img/uploads/selo-ganhe-um.png",
+      "skus": [
+        "ADE0017"
+      ]
     }
   ]
 }
