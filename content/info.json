@@ -1,11 +1,14 @@
 {
   "shipping": {
     "show": true,
-    "text": "Frete Grátis a partir de R$ 199 (Sul e Sudeste)"
+    "text": "(Sul e Sudeste)",
+    "title": "Frete Grátis a partir de R$ 199"
   },
   "installments": {
     "show": true,
-    "text": "Compre em até 5 x sem juros"
+    "text": "Em até 5 x no Cartão",
+    "title": "Compre em até 5 x sem juros",
+    "link": ""
   },
   "exchange": {
     "show": false,
@@ -13,6 +16,7 @@
   },
   "promo": {
     "show": true,
-    "text": "10 % de Desconto via Pix"
+    "text": "Aprovação imediata!",
+    "title": "10 % de Desconto via Pix"
   }
 }
