@@ -7,20 +7,12 @@
       "autoplay": 7000,
       "slides": [
         {
-          "start": "2023-06-23T18:42:49.296Z",
-          "end": "2023-07-01T02:59:00.000Z",
-          "img": "/img/uploads/banner-desktop-fim-do-mes-impermeabilizante-kryll-junho-2023.webp",
-          "link": "https://www.adequim.com.br/impermeabilizante-acrilico-base-de-agua-kryll-20-litros",
-          "alt": "Impermeabilizante Acrílico a Base de Água Kryll 20 Litros",
-          "mobile_img": "/img/uploads/banner-mobile-fim-do-mes-impermeabilizante-kryll-junho-2023.webp"
-        },
-        {
-          "start": "2023-06-06T14:41:12.604Z",
-          "end": "2023-07-08T02:59:00.000Z",
-          "img": "/img/uploads/banner-desktop-tira-manchas-de-ferrugem-adequim-ganhe-um.webp",
-          "link": "https://www.adequim.com.br/tira-manchas-de-ferrugem-adequim-500-ml",
-          "alt": "Tira Manchas de Ferrugem Adequim 500 ml",
-          "mobile_img": "/img/uploads/banner-mobile-tira-manchas-de-ferrugem-adequim-ganhe-um.webp"
+          "start": "2023-07-06T19:08:02.572Z",
+          "end": "2023-08-01T02:59:00.000Z",
+          "img": "/img/uploads/banner-desktop-combo-ferrugem-adequim.webp",
+          "link": "https://www.adequim.com.br/combo-contra-ferrugem-adequim-removedor-de-ferrugem-e-tira-manchas-de-ferrugem",
+          "alt": "Combo Contra Ferrugem Adequim - Removedor de Ferrugem e Tira Manchas de Ferrugem",
+          "mobile_img": "/img/uploads/banner-mobile-combo-ferrugem-adequim.webp"
         }
       ],
       "full_width": true
