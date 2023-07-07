@@ -1,6 +1,10 @@
 {
   "hosting": {
-    "redirects": [
+    "redirects": [{
+      "source": "/pages/contato",
+      "destination": "/contato",
+      "type": 301
+    }
     ],
     "public": "dist",
     "ignore": [

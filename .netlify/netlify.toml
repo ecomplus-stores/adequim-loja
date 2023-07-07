@@ -3,6 +3,11 @@
   to = "/404"
   status = 302
 
+[[redirects]]
+  from = "/pages/contato"
+  to = "/contato"
+  status = 301
+
 [build]
   publish = "publish"
   functions = "functions-zip"

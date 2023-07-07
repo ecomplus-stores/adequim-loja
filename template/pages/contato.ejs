@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="<%= _.lang.replace('_', '-') %>" dir="ltr">
+
+<head>
+  <%- await include('@/head') %>
+</head>
+
+<body
+  id="page-contato"
+  class="_contato"
+>
+  <%- await include('@/layout/menu') %>
+
+  <main role="main" id="main">
+    <%- await include('@/layout/header') %>
+    <div class="sections pb-1 pb-sm-2 pb-lg-4">
+        <div class="container">
+          <nav aria-label="breadcrumb">
+            <ol class="breadcrumb my-2 my-sm-3 d-none d-md-flex">
+              <li class="breadcrumb-item d-none d-md-block">
+                <a href="/">
+                  <i class="fas fa-home"></i>
+                </a>
+              </li>
+              <li class="breadcrumb-item d-none d-md-block active" aria-current="page">
+                    Contato
+              </li>
+            </ol>
+          </nav>
+          <div class="page-title container mt-4 mb-4 mb-lg-5">
+            <div class="page-title__head">
+              <h1 class="my-0">
+                Contato
+              </h1>
+            </div>
+          </div> 
+          <form id="contact-form">
+            <div class="form-group">
+              <label for="name">Nome:</label>
+              <input class="form-control" type="text" name="name" id="name">
+            </div>
+            <div class="form-group">
+              <label for="email">Email:</label>
+              <input class="form-control" type="email" name="email" id="email" placeholder="fulano@gmail.com">
+            </div>
+            <div class="form-group">
+              <label for="message">Messagem:</label>
+              <textarea id="message" class="form-control" name="message"></textarea>
+            </div>
+            <input type="submit" id="button-send" class="btn btn-lg btn-primary" value="Enviar" >
+          </form>
+          
+          <script type="text/javascript"
+            src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"></script>
+          
+          <script type="text/javascript">
+            emailjs.init('SdhEMFK66cj8xxbzT')
+          </script> 
+          <script>
+            const btn = document.getElementById('button-send');
+
+            document.getElementById('contact-form')
+            .addEventListener('submit', function(event) {
+            event.preventDefault();
+
+            btn.value = 'Enviando...';
+
+            const serviceID = 'service_s87flin';
+            const templateID = 'template_zrlo1rs';
+
+            emailjs.sendForm(serviceID, templateID, this)
+                    .then(() => {
+                    btn.value = 'Enviado!';
+                    document.getElementById('contact-form').reset()
+                    alert('Enviado!');
+                    }, (err) => {
+                    btn.value = 'Enviar';
+                    alert(JSON.stringify(err));
+                    });
+                });
+          </script>      
+        </div>
+    </div>
+    <%- await include('@/layout/footer') %>
+    <div id="cookieconsent" class="cookieconsent d-none">
+      <div class="container"> 
+        <div class="row align-items-center justify-content-center"> 
+          <div class="col-12 col-md text-center"> 
+            <div class="text">
+              NÓS UTILIZAMOS COOKIES E TECNOLOGIAS SEMELHANTES PARA APERFEIÇOAR SUA EXPERIÊNCIA EM NOSSA PLATAFORMA, PERSONALIZAR NOSSA PUBLICIDADE E RECOMENDAR CONTEÚDO DE SEU INTERESSE. AO CONTINUAR NAVEGANDO, VOCÊ CONCORDA COM A NOSSA <a target="_blank" href="https://www.adequim.com.br/pages/privacidade">POLÍTICA DE PRIVACIDADE</a>
+            </div> 
+          </div> 
+          <div class="col-12 col-md-auto mt-3 mt-md-0 text-center"> 
+            <button id="cookieconsent-btn" class="btn product-buy-button"> 
+              CONTINUAR E FECHAR
+            </button> 
+          </div> 
+        </div> 
+      </div> 
+    </div>
+    <script type="text/javascript"> 
+        const cookieconsent = document.getElementById('cookieconsent');
+        if (!localStorage.getItem('cookieconsent')) {
+            cookieconsent.classList.remove("d-none");
+        }
+        document.getElementById('cookieconsent-btn').onclick = function() {
+            localStorage.setItem('cookieconsent', true);
+            cookieconsent.classList.add('d-none');
+        };
+    </script>
+  </main>
+
+  <%- await include('@/json') %>
+  <%- await include('@/scripts') %>
+</body>
+
+</html>
