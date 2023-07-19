@@ -1,6 +1,13 @@
 {
   "stamps_list": [
     {
+      "id": "50% Off Segunda Unidade",
+      "img": "/img/uploads/selo-50-segunda-unidade.png",
+      "skus": [
+        "ADE0002"
+      ]
+    },
+    {
       "id": "Frete Grátis",
       "img": "/img/uploads/selo-adequim-frete-gratis.png",
       "skus": [
@@ -11,13 +18,6 @@
         "ADE0006",
         "ADE0016",
         "ADE0018"
-      ]
-    },
-    {
-      "id": "50% Off Segunda Unidade",
-      "img": "/img/uploads/selo-50-segunda-unidade.png",
-      "skus": [
-        "ADE0002"
       ]
     }
   ]
