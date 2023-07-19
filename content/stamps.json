@@ -12,6 +12,13 @@
         "ADE0016",
         "ADE0018"
       ]
+    },
+    {
+      "id": "50% Off Segunda Unidade",
+      "img": "/img/uploads/selo-50-segunda-unidade.png",
+      "skus": [
+        "ADE0002"
+      ]
     }
   ]
 }
