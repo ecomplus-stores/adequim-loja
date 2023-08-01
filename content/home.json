@@ -7,28 +7,12 @@
       "autoplay": 7000,
       "slides": [
         {
-          "start": "2023-07-28T16:19:13.778Z",
-          "end": "2023-08-01T02:59:00.000Z",
-          "img": "/img/uploads/banner-desktop-fim-do-mes-impermeabilizante-kryll-julho-2023.webp",
-          "link": "https://www.adequim.com.br/impermeabilizante-acrilico-base-de-agua-kryll-20-litros",
-          "alt": "Impermeabilizante Acrílico a Base de Água Kryll 20 Litros",
-          "mobile_img": "/img/uploads/banner-mobile-fim-do-mes-impermeabilizante-kryll-julho-2023.webp"
-        },
-        {
-          "start": "2023-07-19T17:53:46.457Z",
-          "end": "2023-08-01T02:59:00.000Z",
-          "img": "/img/uploads/banner-desktop-inverno-sem-mofo.webp",
-          "link": "https://www.adequim.com.br/antimofo-preventivo-kryll-1-litro",
-          "alt": "Antimofo Preventivo Kryll 1 Litro",
-          "mobile_img": "/img/uploads/banner-mobile-inverno-sem-mofo.webp"
-        },
-        {
-          "start": "2023-07-06T19:08:02.572Z",
-          "end": "2023-08-01T02:59:00.000Z",
-          "img": "/img/uploads/banner-desktop-combo-ferrugem-adequim.webp",
-          "link": "https://www.adequim.com.br/combo-contra-ferrugem-adequim-removedor-de-ferrugem-e-tira-manchas-de-ferrugem",
-          "alt": "Combo Contra Ferrugem Adequim - Removedor de Ferrugem e Tira Manchas de Ferrugem",
-          "mobile_img": "/img/uploads/banner-mobile-combo-ferrugem-adequim.webp"
+          "start": "2023-08-01T16:19:32.182Z",
+          "end": "2023-08-08T02:59:00.000Z",
+          "img": "/img/uploads/banner-desktop-acabe-com-mofo.webp",
+          "link": "https://www.adequim.com.br/antimofo-preventivo-kryll-5-litros",
+          "alt": "Antimofo Preventivo Kryll 5 Litros",
+          "mobile_img": "/img/uploads/banner-mobile-acabe-com-mofo.webp"
         }
       ],
       "full_width": true
