@@ -8,6 +8,11 @@
   "meta_title": "Mofo em casa: saiba mais sobre as causas e como combater - Blog da Adequim",
   "sections": [
     {
+      "type": "page-title",
+      "title": "Mofo em casa: saiba mais sobre as causas e como combater",
+      "description": "Motivo de muito incomodo em diversos ambientes, causando desconforto estético e para saúde, o mofo tem origem em locais úmidos e sem incidência de luz solar. A boa notícia é que existem formas de combater e prevenir esse “inimigo”. O importante é saber como. Confira!"
+    },
+    {
       "type": "breadcrumbs",
       "enabled": true
     },
