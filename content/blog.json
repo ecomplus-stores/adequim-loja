@@ -1,5 +1,5 @@
 {
-  "title": "Blog da Adequim",
+  "title": "Blog da Adequim - Tudo para cuidar de você e do seu ambiente",
   "meta_title": "Blog da Adequim - Tudo para cuidar de você e de sua casa",
   "meta_description": "O Blog da Adequim é um espaço com informações sobre os cuidados da casa e do seu espaço. Aprenda mais sobre combate ao mofo, impermeabilizações e muito mais.",
   "sections": [
@@ -8,7 +8,9 @@
       "enabled": true
     },
     {
-      "type": "page-title"
+      "type": "page-title",
+      "title": "Blog da Adequim - Tudo para cuidar de você e do seu ambiente",
+      "description": "Um espaço para encontrar dicas e informações para cuidar da sua casa, empresa e qualquer ambiente."
     },
     {
       "type": "blog",
