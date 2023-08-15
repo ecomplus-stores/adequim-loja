@@ -7,6 +7,14 @@
       "autoplay": 7000,
       "slides": [
         {
+          "start": "2023-08-15T18:16:20.691Z",
+          "end": "2023-09-01T02:59:00.000Z",
+          "img": "/img/uploads/banner-desktop-kit-antimofo-kryll.webp",
+          "link": "https://www.adequim.com.br/kit-contra-o-mofo-kryll-2-antimofo-preventivo-1-aditivo-antimofo-para-tintas",
+          "alt": "Kit contra o mofo Kryll",
+          "mobile_img": "/img/uploads/banner-mobile-kit-antimofo-kryll.webp"
+        },
+        {
           "start": "2023-08-01T16:19:32.182Z",
           "end": "2023-08-15T02:59:00.000Z",
           "img": "/img/uploads/banner-desktop-acabe-com-mofo.webp",
