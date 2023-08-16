@@ -16,7 +16,7 @@ if (Array.isArray(posts) && posts.length) {
           postsList.sort((a, b) => {
             return b.date > a.date ? 1 : -1
           })
-          postsList.forEach(post => { 
+          postsList.slice(0, 3).forEach(post => { 
             const { title, slug, thumbnail, description, date } = post 
             %>
             <div class="col col-md-6 col-lg-4">
