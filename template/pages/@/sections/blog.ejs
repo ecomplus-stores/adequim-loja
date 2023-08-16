@@ -1,6 +1,7 @@
 <%
 const posts = _.cms('posts')
 const themeCustom = _.settings.theme.custom || ''
+const { path } = _.route
 if (Array.isArray(posts) && posts.length) {
   %>
     <div class="blog my-4 my-lg-5">
@@ -16,7 +17,13 @@ if (Array.isArray(posts) && posts.length) {
           postsList.sort((a, b) => {
             return b.date > a.date ? 1 : -1
           })
-          postsList.slice(0, 3).forEach(post => { 
+          let newList
+          if (path === '/') {
+            newList = postsList.slice(0, 3)
+          } else {
+            newList = postsList
+          }
+          newList.forEach(post => { 
             const { title, slug, thumbnail, description, date } = post 
             %>
             <div class="col col-md-6 col-lg-4">
