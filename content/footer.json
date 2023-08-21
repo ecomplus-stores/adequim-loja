@@ -6,7 +6,12 @@
   "links_1": {
     "list_pages": true,
     "title": "Institucional",
-    "list": []
+    "list": [
+      {
+        "text": "Seja um revendedor",
+        "url": "https://mailchi.mp/adequim.com.br/b2b"
+      }
+    ]
   },
   "links_2": {
     "list_categories": true,
