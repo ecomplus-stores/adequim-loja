@@ -4,12 +4,36 @@
     "text": "Encontre produtos para a manutenção de seu espaço, além de sua proteção."
   },
   "links_1": {
-    "list_pages": true,
+    "list_pages": false,
     "title": "Institucional",
     "list": [
       {
         "text": "Seja um revendedor",
         "url": "https://mailchi.mp/adequim.com.br/b2b"
+      },
+      {
+        "text": "Fale Conosco",
+        "url": "https://www.adequim.com.br/pages/contato"
+      },
+      {
+        "text": "Política de entrega",
+        "url": "https://www.adequim.com.br/pages/entrega"
+      },
+      {
+        "text": "Política de pagamento",
+        "url": "https://www.adequim.com.br/pages/pagamentos"
+      },
+      {
+        "text": "Política de privacidade",
+        "url": "https://www.adequim.com.br/pages/privacidade"
+      },
+      {
+        "url": "https://www.adequim.com.br/pages/sobre-nos",
+        "text": "Sobre nós"
+      },
+      {
+        "url": "https://www.adequim.com.br/pages/trocas",
+        "text": "Trocas e devoluções"
       }
     ]
   },
