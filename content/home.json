@@ -11,7 +11,8 @@
           "end": "2023-10-01T02:59:00.000Z",
           "img": "/img/uploads/banner-desktop-mes-cliente-adequim-2023.webp",
           "alt": "Mês do Cliente Adequim",
-          "mobile_img": "/img/uploads/banner-mobile-mes-cliente-adequim-2023.webp"
+          "mobile_img": "/img/uploads/banner-mobile-mes-cliente-adequim-2023.webp",
+          "link": "https://www.adequim.com.br/mes-do-cliente-adequim"
         }
       ],
       "full_width": true
