@@ -22,6 +22,19 @@
       "enabled": true
     },
     {
+      "type": "shelfs-nav",
+      "shuffle": true,
+      "limit": 8,
+      "page": 1,
+      "collection_ids": [
+        "64f882732cd6b6595940898f:collections:Ofertas do Mês do Cliente:/mes-do-cliente-adequim",
+        "61b219770c7c727225c1d1c9:categories:Removedores:/removedores",
+        "5f36f650f023684cdbda6c01:categories:Antimofo:/antimofo",
+        "5f2c59b9f023684cdbd7f91d:categories:Impermeabilizantes:/impermeabilizantes"
+      ],
+      "sort": "views"
+    },
+    {
       "type": "collection-shelf",
       "shuffle": true,
       "collection_id": "5f36f650f023684cdbda6c01:categories:Antimofo:/antimofo",
