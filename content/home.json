@@ -5,7 +5,16 @@
     {
       "type": "banner-slider",
       "autoplay": 7000,
-      "slides": [],
+      "slides": [
+        {
+          "start": "2023-10-02T16:40:30.340Z",
+          "end": "2023-10-17T02:59:00.000Z",
+          "img": "/img/uploads/banner-desktop-adeus-manchas-de-ferrugem-ii.webp",
+          "link": "https://www.adequim.com.br/tira-manchas-de-ferrugem-adequim-500-ml",
+          "alt": "Tira Manchas de Ferrugem Adequim",
+          "mobile_img": "/img/uploads/banner-mobile-adeus-manchas-de-ferrugem-ii.webp"
+        }
+      ],
       "full_width": true
     },
     {
