@@ -30,19 +30,6 @@
       "enabled": true
     },
     {
-      "type": "shelfs-nav",
-      "shuffle": true,
-      "limit": 8,
-      "page": 1,
-      "collection_ids": [
-        "61b219770c7c727225c1d1c9:categories:Removedores:/removedores",
-        "5f36f650f023684cdbda6c01:categories:Antimofo:/antimofo",
-        "5f2c59b9f023684cdbd7f91d:categories:Impermeabilizantes:/impermeabilizantes"
-      ],
-      "sort": "sales",
-      "shelfs_title": "Veja nossa seleção de produtos e ofertas"
-    },
-    {
       "type": "collection-shelf",
       "shuffle": false,
       "limit": 12,
@@ -71,11 +58,6 @@
       "sort": "views",
       "title": "Removedores para ferrugem",
       "link": "https://www.adequim.com.br/removedores"
-    },
-    {
-      "type": "dynamic-showcase",
-      "load_more": true,
-      "sort": "offers"
     },
     {
       "type": "custom-html",
