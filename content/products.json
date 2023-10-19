@@ -6,18 +6,21 @@
     },
     {
       "type": "product-block",
-      "enabled": true
+      "enabled": true,
+      "size_guide": {
+        "title": ""
+      }
     },
     {
       "type": "info-bar",
       "enabled": true
     },
     {
-      "type": "product-specifications",
+      "type": "product-description",
       "enabled": true
     },
     {
-      "type": "product-description",
+      "type": "product-specifications",
       "enabled": true
     },
     {
