@@ -5,11 +5,13 @@
       "enabled": true
     },
     {
-      "type": "page-title"
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner-responsivo-desktop-preparando-verao.webp",
+      "alt": "Preparando o Verão com a Adequim",
+      "mobile_img": "/img/uploads/banner-responsivo-mobile-preparando-verao.webp"
     },
     {
-      "type": "document-banner",
-      "enabled": true
+      "type": "page-title"
     },
     {
       "type": "collection-retail",
