@@ -5,16 +5,7 @@
     {
       "type": "banner-slider",
       "autoplay": 7000,
-      "slides": [
-        {
-          "start": "2023-11-17T18:04:26.791Z",
-          "end": "2023-12-01T02:59:00.000Z",
-          "img": "/img/uploads/banner-desktop-bf-2023.webp",
-          "link": "https://www.adequim.com.br/black-friday-2023-ofertas",
-          "alt": "Black Friday 2023 na Adequim",
-          "mobile_img": "/img/uploads/banner-mobile-bf-2023.webp"
-        }
-      ],
+      "slides": [],
       "full_width": true
     },
     {
