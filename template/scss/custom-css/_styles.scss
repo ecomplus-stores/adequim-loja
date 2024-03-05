@@ -50,3 +50,24 @@
 .cart__btn-checkout, .checkout__btn-proceed, .btn-success {
     color: #fff !important;
 }
+
+#button-whatsapp {
+  width: 100%;
+  color: #fff;
+  padding: 15px;
+  background-color: #468D7E;
+  border: none;
+  border-radius: 4px;
+  margin-top: 20px;
+  display: flex;
+  text-decoration: none !important;
+  align-items: center;
+  justify-content: center;
+  flex-direction: row-reverse;
+  box-shadow: rgb(0 0 0 / 15%) 0 5px 10px 0;
+
+  .wpp-icon {
+    width: 20px;
+    margin-right: 10px;
+  }
+}
