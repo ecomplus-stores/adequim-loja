@@ -1,8 +1,8 @@
 {
   "marketing_stripe": {
-    "text": "🛒 Seja um revendedor dos produtos da Adequim",
-    "link": "https://mailchi.mp/adequim.com.br/b2b",
-    "background": "#502b80",
+    "text": "🛒 Use o cupom CONSUMIDOR10 e ganhe desconto",
+    "link": "",
+    "background": "#ee3042",
     "color": "#ffffff"
   },
   "contacts_stripe": {
