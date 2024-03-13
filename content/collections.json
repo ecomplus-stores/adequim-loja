@@ -5,12 +5,6 @@
       "enabled": true
     },
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/banner-responsivo-desktop-preparando-verao.webp",
-      "alt": "Preparando sua casa para o Verão com a Adequim",
-      "mobile_img": "/img/uploads/banner-responsivo-mobile-preparando-verao.webp"
-    },
-    {
       "type": "page-title"
     },
     {
