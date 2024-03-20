@@ -12,10 +12,6 @@
       }
     },
     {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "type": "product-specifications",
       "enabled": true
     },
