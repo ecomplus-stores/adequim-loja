@@ -3,12 +3,7 @@
     {
       "id": "Frete Grátis",
       "img": "/img/uploads/selo-adequim-frete-gratis.png",
-      "skus": [
-        "ADE0010",
-        "ADE0005",
-        "ADE0006",
-        "ADE0016"
-      ]
+      "skus": null
     }
   ]
 }
