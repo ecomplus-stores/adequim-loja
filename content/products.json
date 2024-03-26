@@ -12,16 +12,16 @@
       }
     },
     {
+      "type": "related-products",
+      "title": "Produtos relacionados"
+    },
+    {
       "type": "product-specifications",
       "enabled": true
     },
     {
       "type": "product-description",
       "enabled": true
-    },
-    {
-      "type": "related-products",
-      "title": "Produtos relacionados"
     },
     {
       "type": "recommended-products",
