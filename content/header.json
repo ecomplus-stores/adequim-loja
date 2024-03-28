@@ -1,9 +1,9 @@
 {
   "marketing_stripe": {
-    "text": "🛒 Use o cupom PRIMEIRACOMPRA ➡️ 10% de Desconto",
-    "link": "",
-    "background": "#502b80",
-    "color": "#ffffff"
+    "text": "✅ Use o cupom FERIADO ➡️ 10% de Desconto",
+    "link": "https://www.adequim.com.br/ofertas",
+    "background": "#f2f2f2",
+    "color": "#482973"
   },
   "contacts_stripe": {
     "pages": [
