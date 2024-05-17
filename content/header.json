@@ -6,20 +6,9 @@
     "color": "#3cb4e7"
   },
   "contacts_stripe": {
-    "pages": [
-      {
-        "title": "Segunda à sexta das 09:00 às 17:00"
-      },
-      {
-        "title": "Entrega para todo Brasil"
-      },
-      {
-        "title": "Blog da Adequim",
-        "link": "https://www.adequim.com.br/blog"
-      }
-    ],
-    "phone_wpp": true,
-    "socials": true
+    "pages": [],
+    "phone_wpp": false,
+    "socials": false
   },
   "categories_list": {
     "featured": [
