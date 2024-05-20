@@ -1,18 +1,18 @@
 {
-  "useJquery": true,
-  "productSlots": "src/append/product-slots",
+  "pkg": "@ecomplus/widget-opinioes-verificadas",
   "active": true,
-  "productDescriptionAppend": "src/append/product-block",
   "desktopOnly": false,
   "enableCheckout": false,
-  "stampsAppend": "src/append/stamps",
-  "pkg": "@ecomplus/widget-opinioes-verificadas",
-  "productCardSlots": "src/append/product-card-slots",
-  "headAppend": "src/append/head",
   "disablePages": true,
-  "bodyAppend": "src/append/body",
   "options": {
     "stamp": "<div id=\"38beac7c-be1e-403f-9fcf-de861eac0d9a\"></div><script async charset=\"utf-8\" src=\"https://widgets.rr.skeepers.io/generated/7336f5ae-c467-9cd4-51e2-b4829f310543/38beac7c-be1e-403f-9fcf-de861eac0d9a.js\"></script>",
     "tagJs": "<script async charset=\"utf-8\" src=\"https://widgets.rr.skeepers.io/product/7336f5ae-c467-9cd4-51e2-b4829f310543/f2105daf-b954-458e-8989-cf2d3c12d295.js\"></script>"
-  }
+  },
+  "headAppend": "src/append/head",
+  "bodyAppend": "src/append/body",
+  "productCardSlots": "src/append/product-card-slots",
+  "productSlots": "src/append/product-slots",
+  "productDescriptionAppend": "src/append/product-block",
+  "stampsAppend": "src/append/stamps",
+  "useJquery": true
 }
