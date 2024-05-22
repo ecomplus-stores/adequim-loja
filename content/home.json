@@ -38,33 +38,12 @@
     },
     {
       "type": "collection-shelf",
-      "shuffle": false,
+      "shuffle": true,
       "limit": 12,
-      "page": 1,
-      "collection_id": "5f36f650f023684cdbda6c01:categories:Antimofo:/antimofo",
-      "sort": "views",
-      "title": "Antimofos para superfícies",
-      "link": "https://www.adequim.com.br/antimofo"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "5f2c59b9f023684cdbd7f91d:categories:Impermeabilizantes:/impermeabilizantes",
-      "sort": "views",
-      "title": "Impermeabilizantes à base de água",
-      "link": "https://www.adequim.com.br/impermeabilizantes"
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "61b219770c7c727225c1d1c9:categories:Removedores:/removedores",
-      "sort": "views",
-      "title": "Removedores para ferrugem",
-      "link": "https://www.adequim.com.br/removedores"
+      "page": 4,
+      "collection_id": "664e3435f4e6d85ab28fb8f5:collections:Os Favoritos da Adequim:/os-favoritos-da-adequim",
+      "sort": null,
+      "title": "Os Favoritos da Adequim"
     },
     {
       "type": "custom-content",
