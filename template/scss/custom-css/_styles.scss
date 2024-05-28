@@ -74,3 +74,15 @@
 .quantity-selector__btn-container {
     margin-left: 0px;
 }
+@media(min-width:575px) and (max-width: 991px){
+main .product_buy .quantity-selector_btn-container {
+    background-color: var(--primary);
+    border-color: var(--primary);
+}
+main .product__buy .btn-lg{
+    border-radius: .3rem;
+    font-size: 1.3rem;
+    line-height: 1.4;
+    padding: 0.3rem 10rem;
+}
+}
