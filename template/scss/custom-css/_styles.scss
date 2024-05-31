@@ -74,4 +74,9 @@
 .quantity-selector__btn-container {
     margin-left: 0px;
 }
-
+.quantity-selector__label {
+  flex-grow: 1;
+}
+.quantity-selector__label button {
+  width: 100%;
+}
