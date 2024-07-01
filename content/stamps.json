@@ -1,11 +1,3 @@
 {
-  "stamps_list": [
-    {
-      "id": "Desconto Segunda Unidade 20%",
-      "img": "/img/uploads/selo-desconto-segunda-unidade.png",
-      "skus": [
-        "ADE0002"
-      ]
-    }
-  ]
+  "stamps_list": []
 }
