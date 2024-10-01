@@ -5,16 +5,7 @@
     {
       "type": "banner-slider",
       "autoplay": 7000,
-      "slides": [
-        {
-          "start": "2024-08-22T01:59:59.185Z",
-          "end": "2024-09-01T02:59:00.000Z",
-          "img": "/img/uploads/banner-desktop-protecao-total-kit.webp",
-          "link": "https://www.adequim.com.br/kit-3-impermeabilizantes-acrilico-a-base-de-agua-kryll-1-litro",
-          "alt": "Kit 3 Impermeabilizantes Acrílico a Base de Água Kryll 1 Litro",
-          "mobile_img": "/img/uploads/banner-mobile-protecao-total-kit.webp"
-        }
-      ],
+      "slides": [],
       "full_width": true
     },
     {
