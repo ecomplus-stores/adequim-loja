@@ -23,10 +23,10 @@
     },
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/banner-desktop-b2b-adequim.webp",
+      "img": "/img/uploads/banner-desktop-adequim-b2b.webp",
       "link": "https://wa.me/5541992335174?text=Ol%C3%A1,%20estou%20na%20Adequim%20e%20gostaria%20de%20informa%C3%A7%C3%B5es%20para%20revenda",
       "alt": "Adequim B2B - Condições especiais para lojistas",
-      "mobile_img": "/img/uploads/banner-mobile-b2b-adequim.webp"
+      "mobile_img": "/img/uploads/banner-mobile-adequim-b2b.webp"
     },
     {
       "type": "collection-shelf",
