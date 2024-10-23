@@ -22,6 +22,15 @@
       "enabled": true
     },
     {
+      "type": "collection-shelf",
+      "shuffle": true,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "664e3435f4e6d85ab28fb8f5:collections:Os Favoritos da Adequim:/os-favoritos-da-adequim",
+      "sort": "offers",
+      "title": "Os Favoritos da Adequim"
+    },
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -35,15 +44,6 @@
           "alt": "Paredes impecáveis com o Antimofo Aditivo Para Tintas Kryll"
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 12,
-      "page": 1,
-      "collection_id": "664e3435f4e6d85ab28fb8f5:collections:Os Favoritos da Adequim:/os-favoritos-da-adequim",
-      "sort": "offers",
-      "title": "Os Favoritos da Adequim"
     },
     {
       "type": "collection-shelf",
