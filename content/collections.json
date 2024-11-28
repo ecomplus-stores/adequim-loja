@@ -1,15 +1,20 @@
 {
   "sections": [
     {
-      "type": "document-banner",
-      "enabled": true
-    },
-    {
       "type": "breadcrumbs",
       "enabled": true
     },
     {
-      "type": "page-title"
+      "type": "document-banner",
+      "enabled": true
+    },
+    {
+      "type": "page-title",
+      "title": "Black Friday da Adequim!"
+    },
+    {
+      "type": "info-bar",
+      "enabled": true
     },
     {
       "type": "collection-retail",
