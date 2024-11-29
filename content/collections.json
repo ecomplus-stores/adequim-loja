@@ -13,10 +13,6 @@
       "title": "Black Friday da Adequim!"
     },
     {
-      "type": "info-bar",
-      "enabled": true
-    },
-    {
       "type": "collection-retail",
       "enabled": true
     },
