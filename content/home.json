@@ -7,12 +7,11 @@
       "autoplay": 7000,
       "slides": [
         {
-          "start": "2024-12-02T12:43:35.611Z",
-          "end": "2024-12-31T03:00:00.000Z",
-          "img": "/img/uploads/banner-desktop-adeus-manchas-de-ferrugem-2024.webp",
-          "link": "https://www.adequim.com.br/tira-manchas-de-ferrugem-adequim-500-ml",
-          "alt": "Tira Manchas de Ferrugem Adequim",
-          "mobile_img": "/img/uploads/banner-mobile-adeus-manchas-de-ferrugem-2024.webp"
+          "start": "2024-12-19T23:03:45.146Z",
+          "end": "2025-01-02T02:59:30.032Z",
+          "img": "/img/uploads/banner-desktop-aviso-ferias-24-25.webp",
+          "alt": "Aviso de Férias Adequim",
+          "mobile_img": "/img/uploads/banner-mobile-aviso-ferias-24-25.webp"
         }
       ],
       "full_width": true
