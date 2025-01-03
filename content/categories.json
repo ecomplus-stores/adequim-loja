@@ -1,12 +1,6 @@
 {
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/banner-responsivo-desktop-aviso-ferias-24-25.webp",
-      "alt": "Aviso de Férias Adequim",
-      "mobile_img": "/img/uploads/banner-responsivo-mobile-aviso-ferias-24-25.webp"
-    },
-    {
       "type": "document-banner",
       "enabled": true
     },
