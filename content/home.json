@@ -7,11 +7,12 @@
       "autoplay": 7000,
       "slides": [
         {
-          "start": "2024-12-19T23:03:45.146Z",
-          "end": "2025-01-02T02:59:30.032Z",
-          "img": "/img/uploads/banner-desktop-aviso-ferias-24-25.webp",
-          "alt": "Aviso de Férias Adequim",
-          "mobile_img": "/img/uploads/banner-mobile-aviso-ferias-24-25.webp"
+          "start": "2025-01-07T14:42:34.656Z",
+          "end": "2025-02-01T02:59:00.000Z",
+          "img": "/img/uploads/banner-desktop-verao-2025.webp",
+          "link": "https://www.adequim.com.br/ofertas",
+          "alt": "Verão Adequim 2025 - Ofertas quentes para manter sua casa sempre limpa e protegida",
+          "mobile_img": "/img/uploads/banner-mobile-verao-2025.webp"
         }
       ],
       "full_width": true
