@@ -1,6 +1,12 @@
 {
   "sections": [
     {
+      "type": "responsive-banner",
+      "img": "/img/uploads/banner-responsivo-desktop-verao-2025.webp",
+      "alt": "Verão Adequim 2025 - Ofertas quentes para manter sua casa sempre limpa e protegida",
+      "mobile_img": "/img/uploads/banner-responsivo-mobile-verao-2025.webp"
+    },
+    {
       "type": "breadcrumbs",
       "enabled": true
     },
