@@ -2,9 +2,10 @@
   "sections": [
     {
       "type": "responsive-banner",
-      "img": "/img/uploads/banner-responsivo-desktop-verao-2025.webp",
-      "alt": "Verão Adequim 2025 - Ofertas quentes para manter sua casa sempre limpa e protegida",
-      "mobile_img": "/img/uploads/banner-responsivo-mobile-verao-2025.webp"
+      "img": "/img/uploads/banner-responsivo-desktop-leve-3-ganhe-20.webp",
+      "alt": "Leve 3 unidades e Ganhe 20% de Desconto na Adequim",
+      "mobile_img": "/img/uploads/banner-responsivo-mobile-leve-3-ganhe-20.webp",
+      "link": "https://www.adequim.com.br/ofertas"
     },
     {
       "type": "breadcrumbs",
