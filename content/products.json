@@ -1,12 +1,6 @@
 {
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/banner-responsivo-desktop-carnaval-2025.webp",
-      "alt": "Carnaval Adequim",
-      "mobile_img": "/img/uploads/banner-responsivo-mobile-carnaval-2025.webp"
-    },
-    {
       "type": "breadcrumbs",
       "enabled": true
     },
