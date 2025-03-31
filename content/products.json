@@ -1,12 +1,6 @@
 {
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/banner-responsivo-desktop-mes-do-consumidor-adequim-2025.webp",
-      "alt": "Mês do Consumidor Adequim 2025",
-      "mobile_img": "/img/uploads/banner-responsivo-mobile-mes-do-consumidor-adequim-2025.webp"
-    },
-    {
       "type": "breadcrumbs",
       "enabled": true
     },
