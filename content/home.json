@@ -7,6 +7,13 @@
       "autoplay": 7000,
       "slides": [
         {
+          "start": "2025-12-19T14:39:44.189Z",
+          "end": "2026-01-05T02:59:00.000Z",
+          "img": "/img/uploads/banner-desktop-aviso-ferias-25-26.webp",
+          "alt": "Recesso Adequim 2025 / 2026",
+          "mobile_img": "/img/uploads/banner-mobile-aviso-ferias-25-26.webp"
+        },
+        {
           "start": "2025-09-18T12:40:06.079Z",
           "end": "2026-01-07T02:59:57.891Z",
           "img": "/img/uploads/banner-desktop-adeus-manchas-de-ferrugem-2024.webp",
