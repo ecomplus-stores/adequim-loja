@@ -12,22 +12,6 @@
           "img": "/img/uploads/banner-desktop-aviso-ferias-25-26.webp",
           "alt": "Recesso Adequim 2025 / 2026",
           "mobile_img": "/img/uploads/banner-mobile-aviso-ferias-25-26.webp"
-        },
-        {
-          "start": "2025-09-18T12:40:06.079Z",
-          "end": "2026-01-07T02:59:57.891Z",
-          "img": "/img/uploads/banner-desktop-adeus-manchas-de-ferrugem-2024.webp",
-          "link": "https://www.adequim.com.br/tira-manchas-de-ferrugem-adequim-500-ml",
-          "alt": "Tira Manchas de Ferrugem Adequim 500 ml",
-          "mobile_img": "/img/uploads/banner-mobile-adeus-manchas-de-ferrugem-2024.webp"
-        },
-        {
-          "start": "2025-09-18T12:40:47.443Z",
-          "end": "2026-01-07T02:59:00.000Z",
-          "img": "/img/uploads/banner-desktop-antimofo-kryll-5-litros-2024.webp",
-          "link": "https://www.adequim.com.br/antimofo-preventivo-kryll-5-litros",
-          "alt": "Antimofo Preventivo Kryll 5 Litros",
-          "mobile_img": "/img/uploads/banner-mobile-antimofo-kryll-5-litros-2024.webp"
         }
       ],
       "full_width": true
