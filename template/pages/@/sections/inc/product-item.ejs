@@ -20,7 +20,6 @@ let stampsList
 if (stamps && Array.isArray(stamps.stamps_list) && stamps.stamps_list.length) {
   stampsList = stamps.stamps_list
 }
-
 %>
 
 <article class="product-item" data-product="<%= JSON.stringify(itemData) %>">
@@ -32,10 +31,6 @@ if (stamps && Array.isArray(stamps.stamps_list) && stamps.stamps_list.length) {
       data-to-render="true"
     <% } %>
   >
-    <!--
-      `ProductCard` should be rendered (hydrated) here:
-      https://developers.e-com.plus/storefront/@ecomplus/storefront-components/docs/ProductCard.html
-    -->
     <div data-slot="stamps">
       <% if (Array.isArray(stampsList) && stampsList.length) { %>
         <div class="product-card__stamps">
@@ -56,13 +51,7 @@ if (stamps && Array.isArray(stamps.stamps_list) && stamps.stamps_list.length) {
       class="product-card__link"
       title="<%= itemData.name %>"
     >
-      <!-- Custom code on product card top wrapped by link:
-      <span data-slot="header">
-      </span>
-      -->
-
       <div class="product-card__pictures">
-        <!-- Picture(s) will be inserted and loaded dynamically within `ProductCard` -->
         <% if (imgObj) { %>
           <picture class="product-card__picture">
             <img
@@ -94,13 +83,6 @@ if (stamps && Array.isArray(stamps.stamps_list) && stamps.stamps_list.length) {
       </strong>
     </div>
 
-    <!-- Customize add to cart button content:
-    <div data-slot="buy-button-content">
-      <i class="i-shopping-bag mr-1"></i>
-      {{ _.dictionary('buy') }}
-    </div>
-    -->
-
     <div class="spinner-border spinner-border-sm fade" role="status">
       <span class="sr-only">Loading...</span>
     </div>
@@ -108,10 +90,6 @@ if (stamps && Array.isArray(stamps.stamps_list) && stamps.stamps_list.length) {
     <%- await include('@/helpers/widgets-append', {
       _, opt, field: 'productCardSlots'
     }) %>
-  </div>
-
-  <div data-slot="rating">
-    <div class="skeepers_product__stars" data-product-id="<%= itemData._id %>"></div> 
   </div>
 
   <%- await include('@/helpers/widgets-append', {
