@@ -1,12 +1,6 @@
 {
   "sections": [
     {
-      "type": "responsive-banner",
-      "img": "/img/uploads/banner-responsivo-desktop-aviso-ferias-25-26.webp",
-      "alt": "Recesso Adequim 2025/2026",
-      "mobile_img": "/img/uploads/banner-responsivo-mobile-aviso-ferias-25-26.webp"
-    },
-    {
       "type": "breadcrumbs",
       "enabled": true
     },
